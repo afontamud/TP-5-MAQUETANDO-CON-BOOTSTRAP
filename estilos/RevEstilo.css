@@ -1,0 +1,30 @@
+body{
+    background: rgb(65,172,112);
+    background: linear-gradient(0deg, rgba(65,172,112,1) 0%, rgba(104,191,147,1) 100%);
+}
+
+
+.container {
+    margin-top: 5%;
+    margin-left: 5%;
+    justify-content: center;
+}
+
+img {
+    max-width: 50%;
+}
+
+footer{
+    text-align: center;
+    background-color: #1D202B;
+    
+}
+
+footer a {
+    color: aliceblue;
+    text-decoration: none;
+
+}
+footer a:hover{
+    color: rgb(42, 109, 57);
+}
